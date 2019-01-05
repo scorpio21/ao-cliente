@@ -1,5 +1,5 @@
 [INIT]
-Cant=2
+Cant=3
 
 [S1]
 Desc=Argentum Online - Atomico
@@ -11,3 +11,7 @@ Desc=Argentum Online - Localhost
 IP=localhost
 PJ=7666
 
+[S3]
+Desc=Argentum Online - HostPruebas
+IP=37.59.52.220
+PJ=7666
